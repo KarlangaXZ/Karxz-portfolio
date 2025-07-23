@@ -14,8 +14,8 @@ export const AboutSection = () => {
             <h3 className="text-2xl font-semibold">Passionate Web Developer</h3>
 
             <p className="text-muted-foreground">
-              I'm a passionate frontend developer with a strong foundation in
-              HTML, CSS, and JavaScript. I enjoy creating responsive and
+              I'm a passionate Fullstack Developer with a strong foundation in
+              HTML, CSS, JavaScript, React, Java, C#, ect. I enjoy creating responsive and
               user-friendly websites that provide great user experiences.
             </p>
 
