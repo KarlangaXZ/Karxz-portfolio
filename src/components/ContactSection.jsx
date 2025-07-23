@@ -48,10 +48,10 @@ export const ContactSection = () => {
 
             <div className="space-y-6 justify-center">
               <div className="flex items-start space-x-4">
-                <div className="p-3 rounded-full bg-primary/10">
-                  <Mail className="h-6 w-6 text-primary" />{" "}
+                <div className="p-3 rounded-full bg-primary/10 lg:mr-20">
+                  <Mail className="h-6 w-6 text-primary " />{" "}
                 </div>
-                <div className="ml-18">
+                <div>
                   <h4 className="font-medium"> Email</h4>
                   <a
                     href="mailto:carlos.josewin@gmail.com"
@@ -62,10 +62,10 @@ export const ContactSection = () => {
                 </div>
               </div>
               <div className="flex items-start space-x-4">
-                <div className="p-3 rounded-full bg-primary/10">
+                <div className="p-3 rounded-full bg-primary/10 lg:mr-20">
                   <Phone className="h-6 w-6 text-primary" />{" "}
                 </div>
-                <div className="ml-25">
+                <div className="ml-8">
                   <h4 className="font-medium"> Phone</h4>
                   <a
                     href="tel:+18099753188"
@@ -75,11 +75,11 @@ export const ContactSection = () => {
                   </a>
                 </div>
               </div>
-              <div className="flex items-start space-x-4 mr-15">
-                <div className="p-3 rounded-full bg-primary/10">
+              <div className="flex items-start space-x-4">
+                <div className="p-3 rounded-full bg-primary/10 lg:mr-20">
                   <MapPin className="h-6 w-6 text-primary" />{" "}
                 </div>
-                <div className="ml-20">
+                <div className="ml-4">
                   <h4 className="font-medium "> Location</h4>
                   <a className="text-muted-foreground hover:text-primary transition-colors">
                     Santo Domingo East, DR
