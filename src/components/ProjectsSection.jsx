@@ -22,13 +22,42 @@ const projects = [
   },
   {
     id: 3,
+    title: "KZ Portfolio",
+    description:
+      "Personal portfolio website showcasing my skills, projects, and experience. Built with modern web technologies.",
+    image: "/projects/project3.png",
+    tags: ["React", "Vite", "TailwindCSS", "JS", "Lucide", "Radix UI"],
+    demoUrl: "https://karxz-portfolio.vercel.app/",
+    githubUrl: "https://github.com/KarlangaXZ/Karxz-portfolio",
+  },
+  {
+    id: 4,
     title: "Pesquisas",
     description:
       "Pesquisas Digital is a Spanish-language in-depth journalism outlet focused on analysis, investigations, and data-driven storytelling. With a modern, minimalist design, it focuses on clarity, rigor, and exploration beyond the obvious, offering current affairs, international news, opinion, and multimedia content.",
-    image: "/projects/project3.png",
-    tags: ["HTML", "CSS", "BootStrap", "WordPress","Elementor"],
+    image: "/projects/project4.png",
+    tags: ["HTML", "CSS", "BootStrap", "WordPress", "Elementor"],
     demoUrl: "https://pesquisasdigital.com/?nocache=1753211495",
     githubUrl: "#",
+  },
+  {
+    id: 5,
+    title: "UN PAINT",
+    description: "Clone of windows paint, a simple drawing application.",
+    image: "/projects/project5.png",
+    tags: ["C#", "Windows Forms", "HTML", "Visual Studio 2022"],
+    demoUrl: "https://github.com/KarlangaXZ/UnPaint",
+    githubUrl: "https://github.com/KarlangaXZ/UnPaint",
+  },
+  {
+    id: 6,
+    title: "app-movieSearch",
+    description:
+      "This is a movie search project using React, TypeScript and The Movie Database API (TMDb).",
+    image: "/projects/project6.png",
+    tags: ["HTML", "CSS", "TypeScript", "React"],
+    demoUrl: "https://karlangaxz-moviesearch.netlify.app/",
+    githubUrl: "https://github.com/KarlangaXZ/app-movieSearch",
   },
 ];
 
