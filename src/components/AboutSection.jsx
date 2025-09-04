@@ -35,7 +35,7 @@ export const AboutSection = () => {
 
               <a
                 href="https://github.com/KarlangaXZ/Karxz-portfolio/blob/69ccdcd1d9b473362e5b5f40fe294d1917ec3087/public/projects/CV.pdf"
-                download="CV.pdf"
+                download="https://github.com/KarlangaXZ/Karxz-portfolio/blob/69ccdcd1d9b473362e5b5f40fe294d1917ec3087/public/projects/CV.pdf"
                 target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
