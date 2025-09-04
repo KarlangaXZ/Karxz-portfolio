@@ -15,8 +15,9 @@ export const AboutSection = () => {
 
             <p className="text-muted-foreground">
               I'm a passionate Fullstack Developer with a strong foundation in
-              HTML, CSS, JavaScript, React, Java, C#, ect. I enjoy creating responsive and
-              user-friendly websites that provide great user experiences.
+              HTML, CSS, JavaScript, React, Java, C#, ect. I enjoy creating
+              responsive and user-friendly websites that provide great user
+              experiences.
             </p>
 
             <p className="text-muted-foreground">
@@ -34,8 +35,8 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="https://github.com/KarlangaXZ/Karxz-portfolio/blob/69ccdcd1d9b473362e5b5f40fe294d1917ec3087/public/projects/CV.pdf"
-                download="https://github.com/KarlangaXZ/Karxz-portfolio/blob/69ccdcd1d9b473362e5b5f40fe294d1917ec3087/public/projects/CV.pdf"
+                href="public/projects/CV.pdf"
+                download="CV.pdf"
                 target="_blank"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
